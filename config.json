@@ -1,0 +1,12 @@
+{
+    "client_id": "3111ac5a-c013-46b3-a5cb-d79081f9f2f1",
+    "client_secret": "gEHGLCFdaUVBy8y2RubLv7kzlu0htDcrVEI/528GgA4=",
+    "token_service": {
+      "host": "login.microsoftonline.com",
+      "path": "/utccloud.onmicrosoft.com/oauth2/token?api-version=1.0"
+    },
+    "report_service": {
+        "host": "graph.windows.net",
+        "path": "/utccloud.microsoft.com/activities/signinEvents?api-version=beta&"
+      } 
+  }

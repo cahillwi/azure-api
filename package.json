@@ -1,0 +1,19 @@
+{
+  "name": "azure_signon_api",
+  "version": "1.0.0",
+  "description": "pulls information from UTC AAD to count successful signons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Cahill",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "https-proxy-agent": "^2.1.0",
+    "mongoose": "^4.11.7"
+  }
+}
